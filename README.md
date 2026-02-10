@@ -41,7 +41,7 @@ This project reflects strong fundamentals in **CSS animations**, positioning, an
 ### 🪐 Orbital Motion
 
 <p align="center">
-  <img src="./images/Eliptical-orbit.gif" width="100%" alt="Solar System Animation"/>
+  <img src="./images/elipse.gif" width="100%" alt="Solar System Animation"/>
 </p>
 
 ---
