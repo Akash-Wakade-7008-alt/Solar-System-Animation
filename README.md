@@ -59,15 +59,6 @@ This project reflects strong fundamentals in **CSS animations**, positioning, an
 🎨 Clean visual hierarchy  
 📚 Great educational project  
 
----
-
-## 📊 Repo Insights
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight"/>
-</p>
 
 ---
 
@@ -149,7 +140,3 @@ It helps others discover my work and motivates me to build more!
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,50:004e92,100:000428&height=140&section=footer"/>
-</p>
