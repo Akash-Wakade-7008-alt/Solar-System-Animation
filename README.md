@@ -117,3 +117,27 @@ Add Saturn rings & asteroid belt
 Hover to display planet info
 
 Dark/Light mode toggle
+
+
+🤝 Contributing
+
+Pull requests are welcome!
+
+If you have ideas to improve the animation, feel free to fork and contribute 🚀
+
+⭐ If You Like This Project
+
+Give it a STAR ⭐
+It helps others discover my work and motivates me to build more!
+
+👨‍💻 Author
+
+Akash Wakade
+
+🚀 Aspiring Software Developer
+💡 Passionate about Frontend Engineering
+🔥 Focused on building standout projects
+
+👀 Visitors
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=0e75b6&style=flat"/> </p>
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,50:004e92,100:000428&height=140&section=footer"/> </p> ```
