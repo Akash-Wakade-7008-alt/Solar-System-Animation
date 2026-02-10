@@ -35,13 +35,13 @@ This project reflects strong fundamentals in **CSS animations**, positioning, an
 ### 🌠 Solar System View
 
 <p align="center">
-  <img src="./images/ELiptical-orbit.gif" width="100%" alt="Solar System Preview"/>
+  <img src="" width="100%" alt="Solar System Preview"/>
 </p>
 
 ### 🪐 Orbital Motion
 
 <p align="center">
-  <img src="./images/Preview-2.png" width="100%" alt="Solar System Animation"/>
+  <img src="./images/Eliptical-orbit.gif" width="100%" alt="Solar System Animation"/>
 </p>
 
 ---
