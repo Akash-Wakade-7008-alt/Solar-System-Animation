@@ -19,12 +19,14 @@ This project reflects strong fundamentals in **CSS animations**, positioning, an
 ## 🔴 Live Demo
 
 <p align="center">
-  <a href="https://github.com/your-username/solar-system-animation">
-    <img src="https://img.shields.io/badge/🚀_View_Project-Live-blue?style=for-the-badge"/>
+  <a href="https://solar-system-animation-2ett.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🚀_View_Live_Project-Vercel-blue?style=for-the-badge&logo=vercel"/>
   </a>
 </p>
 
-_(Replace this link with your deployed project URL from Vercel or Netlify.)_
+⭐ **Experience the animation live here:**  
+👉 https://solar-system-animation-2ett.vercel.app/
+
 
 ---
 
