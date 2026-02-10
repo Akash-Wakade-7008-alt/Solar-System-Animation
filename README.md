@@ -24,7 +24,7 @@ This project reflects strong fundamentals in **CSS animations**, positioning, an
   </a>
 </p>
 
-*(Replace the link above if you deploy it on Vercel or Netlify — highly recommended! Recruiters LOVE live projects.)*
+*(Replace this link with your deployed project URL from Vercel or Netlify.)*
 
 ---
 
@@ -39,9 +39,6 @@ This project reflects strong fundamentals in **CSS animations**, positioning, an
 <p align="center">
   <img src="images/preview-2.png" width="85%" alt="Solar System Animation"/>
 </p>
-
-👉 **PRO TIP:**  
-If you ever convert this into a GIF, your README instantly looks 10x more premium.
 
 ---
 
@@ -76,13 +73,16 @@ If you ever convert this into a GIF, your README instantly looks 10x more premiu
 
 ## 📁 Project Structure
 
+```
 solar-system-animation
 │
 ├── index.html
 ├── style.css
 └── images/
-├── preview-1.png
-└── preview-2.png
+     ├── preview-1.png
+     └── preview-2.png
+```
+
 ---
 
 ## 🧠 What This Project Demonstrates
@@ -93,7 +93,7 @@ solar-system-animation
 ✅ Strong frontend fundamentals  
 ✅ Ability to build visually engaging UI  
 
-👉 These are exactly the skills recruiters look for in **junior frontend developers**.
+👉 These are exactly the skills recruiters look for in junior frontend developers.
 
 ---
 
@@ -102,31 +102,54 @@ solar-system-animation
 ```bash
 git clone https://github.com/your-username/solar-system-animation.git
 cd solar-system-animation
+```
 
-Open index.html in your browser 🌍
+Open **index.html** in your browser 🌍
 
+---
 
-🔮 Future Enhancements
+## 🔮 Future Enhancements
 
-Add JavaScript speed controls
-Make the system fully responsive
-Add Saturn rings & asteroid belt
-Hover to display planet info
-Dark/Light mode toggle
+- Add JavaScript speed controls  
+- Make the system fully responsive  
+- Add Saturn rings & asteroid belt  
+- Hover to display planet info  
+- Dark/Light mode toggle  
 
+---
 
-🤝 Contributing
+## 🤝 Contributing
 
-Pull requests are welcome!
+Pull requests are welcome!  
 If you have ideas to improve the animation, feel free to fork and contribute 🚀
-⭐ If You Like This Project
-Give it a STAR ⭐
+
+---
+
+## ⭐ If You Like This Project
+
+Give it a **STAR ⭐**  
 It helps others discover my work and motivates me to build more!
 
-👨‍💻 Author
-Akash Wakade
+---
 
-🚀 Aspiring Software Developer
-💡 Passionate about Frontend Engineering
-🔥 Focused on building standout projects
+## 👨‍💻 Author
 
+**Akash Wakade**
+
+🚀 Aspiring Software Developer  
+💡 Passionate about Frontend Engineering  
+🔥 Focused on building standout projects  
+
+---
+
+## 👀 Visitors
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=0e75b6&style=flat"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,50:004e92,100:000428&height=140&section=footer"/>
+</p>
