@@ -1,70 +1,119 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Solar%20System%20Animation&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,50:004e92,100:000428&height=230&section=header&text=Solar%20System%20Animation&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=36BCF7&center=true&vCenter=true&width=600&lines=Pure+HTML+%26+CSS+Animation;Creative+Frontend+Project;Smooth+Orbital+Motion;Beginner-Friendly+Yet+Impressive"/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3500&color=58A6FF&center=true&vCenter=true&width=700&lines=Beautiful+Solar+System+Built+With+HTML+%26+CSS;Smooth+Orbital+Animations;Creative+Frontend+Project;Turning+Code+Into+Visual+Experiences"/>
 </p>
 
 ---
+
+## 🌌 About The Project
+
+> A visually stunning **Solar System Animation** created using **pure HTML & CSS** — showcasing planetary motion with smooth orbital paths.
+
+This project reflects strong fundamentals in **CSS animations**, positioning, and modern frontend design.
+
+---
+
+## 🔴 Live Demo
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML-5-orange?style=for-the-badge&logo=html5"/>
-  <img src="https://img.shields.io/badge/CSS-3-blue?style=for-the-badge&logo=css3"/>
-  <img src="https://img.shields.io/badge/Animations-CSS-success?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Status-Live-brightgreen?style=for-the-badge"/>
+  <a href="https://github.com/your-username/solar-system-animation">
+    <img src="https://img.shields.io/badge/🚀_View_Project-Live-blue?style=for-the-badge"/>
+  </a>
 </p>
 
----
-
-# 🌌 Solar System Animation
-
-> A visually engaging **Solar System model** built entirely with **HTML & CSS** that demonstrates planetary motion using smooth orbital animations.
-
-Perfect for showcasing **frontend fundamentals**, creativity, and animation skills.
+*(Replace the link above if you deploy it on Vercel or Netlify — highly recommended! Recruiters LOVE live projects.)*
 
 ---
 
-## 🚀 Project Preview
+## 🖼️ Preview
+
+### 🌠 Solar System View
+<p align="center">
+  <img src="images/preview-1.png" width="85%" alt="Solar System Preview"/>
+</p>
+
+### 🪐 Orbital Motion
+<p align="center">
+  <img src="images/preview-2.png" width="85%" alt="Solar System Animation"/>
+</p>
+
+👉 **PRO TIP:**  
+If you ever convert this into a GIF, your README instantly looks 10x more premium.
+
+---
+
+## 🧰 Tech Stack
 
 <p align="center">
-  <img src="images/preview-1.png" width="80%" alt="Solar System Preview"/>
+  <img src="https://skillicons.dev/icons?i=html,css&theme=dark"/>
 </p>
+
+---
+
+## ⭐ Key Features
+
+✨ Pure CSS animations — no JavaScript  
+🪐 Realistic orbital movement  
+🎯 Beginner-friendly yet impressive  
+⚡ Ultra lightweight  
+🎨 Clean visual hierarchy  
+📚 Great educational project  
+
+---
+
+## 📊 Repo Insights
 
 <p align="center">
-  <img src="images/preview-2.png" width="80%" alt="Solar System Animation"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight"/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight"/>
 </p>
 
 ---
 
-## ✨ Features
-
-🌠 Smooth orbital animations  
-🪐 Pure HTML & CSS — No JavaScript  
-🎯 Beginner-friendly and educational  
-⚡ Lightweight & fast loading  
-🎨 Minimal and modern design  
-📱 Easily extendable  
-
----
-
-## 🛠️ Tech Stack
-
-| Technology | Purpose |
-|------------|------------|
-| **HTML5** | Structure |
-| **CSS3** | Styling |
-| **CSS Animations** | Planetary Motion |
-
----
-
-## 📂 Project Structure
+## 📁 Project Structure
 
 solar-system-animation
 │
 ├── index.html
 ├── style.css
-└── images
+└── images/
 ├── preview-1.png
 └── preview-2.png
+---
 
+## 🧠 What This Project Demonstrates
+
+✅ Mastery of CSS `@keyframes`  
+✅ Transform-based circular motion  
+✅ Advanced positioning techniques  
+✅ Strong frontend fundamentals  
+✅ Ability to build visually engaging UI  
+
+👉 These are exactly the skills recruiters look for in **junior frontend developers**.
+
+---
+
+## ⚡ Run Locally
+
+```bash
+git clone https://github.com/your-username/solar-system-animation.git
+cd solar-system-animation
+
+Open index.html in your browser 🌍
+
+
+🔮 Future Enhancements
+
+Add JavaScript speed controls
+
+Make the system fully responsive
+
+Add Saturn rings & asteroid belt
+
+Hover to display planet info
+
+Dark/Light mode toggle
