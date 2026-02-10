@@ -9,7 +9,7 @@ body {
 
 .container {
   width: 780px;
-  height: 700px;
+  height: 780px;
   background: #111;
   position: relative;
   border-radius: 100%;
@@ -27,19 +27,19 @@ body {
 
 .orbit.small {
   width: 310px;
-  height: 180px;
+  height: 310px;
   animation-duration: 6s;
 }
 
 .orbit.medium {
-  width: 450px;
-  height: 370px;
+  width: 480px;
+  height: 480px;
   animation-duration: 8s;
 }
 
 .orbit.large {
   width: 650px;
-  height: 550px;
+  height: 650px;
   animation-duration: 10s;
 }
 
