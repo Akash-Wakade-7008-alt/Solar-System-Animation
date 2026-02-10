@@ -79,7 +79,7 @@ solar-system-animation
 ✅ Strong frontend fundamentals  
 ✅ Ability to build visually engaging UI
 
-👉 These are exactly the skills recruiters look for in junior frontend developers.
+
 
 ---
 
