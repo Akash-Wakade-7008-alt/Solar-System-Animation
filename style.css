@@ -8,8 +8,8 @@
     }
 
     .container {
-        width: 300px;
-        height: 300px;
+        width: 750px;
+        height: 750px;
         background: #111;
         position: relative;
         border-radius: 100%;
@@ -25,30 +25,32 @@
         animation: rotate 8s linear infinite;
     }
 
+
+
     .orbit.small {
-        width: 120px;
-        height: 120px;
+        width: 350px;
+        height: 200px;
         animation-duration: 6s;
     }
 
     .orbit.medium {
-        width: 180px;
-        height: 180px;
+        width: 500px;
+        height: 350px;
         animation-duration: 8s;
     }
 
     .orbit.large {
-        width: 240px;
-        height: 240px;
+        width: 700px;
+        height: 600px;
         animation-duration: 10s;
     }
 
     .planet {
-        width: 20px;
-        height: 20px;
+        width: 50px;
+        height: 50px;
         border-radius: 50%;
         position: absolute;
-        top: -10px;
+        top: -25px;
         left: 50%;
         transform: translateX(-50%);
     }
@@ -58,8 +60,8 @@
     .green { background: #4cd137; }
     .yellow {
         background: #fbc531;
-        width: 25px;
-        height: 25px;
+        width: 100px;
+        height: 100px;
         top: 50%;
         left: 50%;
         border-radius: 100%;
