@@ -19,13 +19,13 @@ This project reflects strong fundamentals in **CSS animations**, positioning, an
 ## 🔴 Live Demo
 
 <p align="center">
-  <a href="https://solar-system-animation-ojm7.vercel.app/" target="_blank">
+  <a href="https://solar-system-animation-xi.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/🚀_View_Live_Project-Vercel-blue?style=for-the-badge&logo=vercel"/>
   </a>
 </p>
 
 ⭐ **Experience the animation live here:**  
-👉 https://solar-system-animation-ojm7.vercel.app/
+👉 https://solar-system-animation-xi.vercel.app/
 
 
 ---
