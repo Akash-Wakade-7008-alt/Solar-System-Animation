@@ -24,28 +24,22 @@ This project reflects strong fundamentals in **CSS animations**, positioning, an
   </a>
 </p>
 
-*(Replace this link with your deployed project URL from Vercel or Netlify.)*
+_(Replace this link with your deployed project URL from Vercel or Netlify.)_
 
 ---
 
 ## 🖼️ Preview
 
 ### 🌠 Solar System View
+
 <p align="center">
   <img src="./images/Preview-1.png" width="100%" alt="Solar System Preview"/>
 </p>
 
 ### 🪐 Orbital Motion
+
 <p align="center">
   <img src="./images/Preview-2.png" width="100%" alt="Solar System Animation"/>
-</p>
-
----
-
-## 🧰 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css&theme=dark"/>
 </p>
 
 ---
@@ -57,8 +51,7 @@ This project reflects strong fundamentals in **CSS animations**, positioning, an
 🎯 Beginner-friendly yet impressive  
 ⚡ Ultra lightweight  
 🎨 Clean visual hierarchy  
-📚 Great educational project  
-
+📚 Great educational project
 
 ---
 
@@ -82,7 +75,7 @@ solar-system-animation
 ✅ Transform-based circular motion  
 ✅ Advanced positioning techniques  
 ✅ Strong frontend fundamentals  
-✅ Ability to build visually engaging UI  
+✅ Ability to build visually engaging UI
 
 👉 These are exactly the skills recruiters look for in junior frontend developers.
 
@@ -101,11 +94,11 @@ Open **index.html** in your browser 🌍
 
 ## 🔮 Future Enhancements
 
-- Add JavaScript speed controls  
-- Make the system fully responsive  
-- Add Saturn rings & asteroid belt  
-- Hover to display planet info  
-- Dark/Light mode toggle  
+- Add JavaScript speed controls
+- Make the system fully responsive
+- Add Saturn rings & asteroid belt
+- Hover to display planet info
+- Dark/Light mode toggle
 
 ---
 
@@ -129,7 +122,15 @@ It helps others discover my work and motivates me to build more!
 
 🚀 Aspiring Software Developer  
 💡 Passionate about Frontend Engineering  
-🔥 Focused on building standout projects  
+🔥 Focused on building standout projects
+
+---
+
+## 📬 Connect With Me
+
+- GitHub : https://github.com/Akash-Wakade-7008-alt
+- LinkedIn :[in/akash-wakade-08b8412b2](https://www.linkedin.com/in/akash-wakade-08b8412b2/)
+- Email : akashwakade7355@gmail.com
 
 ---
 
