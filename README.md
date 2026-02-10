@@ -35,7 +35,7 @@ This project reflects strong fundamentals in **CSS animations**, positioning, an
 ### 🌠 Solar System View
 
 <p align="center">
-  <img src="" width="100%" alt="Solar System Preview"/>
+  <img src="./images/elipse.gif" width="100%" alt="Solar System Preview"/>
 </p>
 
 ### 🪐 Orbital Motion
