@@ -47,7 +47,6 @@ This project reflects strong fundamentals in **CSS animations**, positioning, an
 
 ## ⭐ Key Features
 
-✨ Pure CSS animations — no JavaScript  
 🪐 Realistic orbital movement  
 🎯 Beginner-friendly yet impressive  
 ⚡ Ultra lightweight  
@@ -63,11 +62,11 @@ solar-system-animation
 │
 ├── index.html
 ├── style.css
+├── script.js
 └── images/
      ├── preview-1.png
-     ├── preview-2.png
-     ├── circle.gif
-     └── ellipse.gif
+     └── preview-2.png
+
 
 ```
 
