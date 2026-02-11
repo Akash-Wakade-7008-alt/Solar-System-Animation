@@ -27,7 +27,6 @@ This project reflects strong fundamentals in **CSS animations**, positioning, an
 ⭐ **Experience the animation live here:**  
 👉 https://solar-system-animation-xi.vercel.app/
 
-
 ---
 
 ## 🖼️ Preview
@@ -66,7 +65,10 @@ solar-system-animation
 ├── style.css
 └── images/
      ├── preview-1.png
-     └── preview-2.png
+     ├── preview-2.png
+     ├── circle.gif
+     └── ellipse.gif
+
 ```
 
 ---
@@ -78,8 +80,6 @@ solar-system-animation
 ✅ Advanced positioning techniques  
 ✅ Strong frontend fundamentals  
 ✅ Ability to build visually engaging UI
-
-
 
 ---
 
