@@ -7,17 +7,17 @@ let btn = document.getElementById("shapeBtn");
 let shape = "circle";
 
 function circle() {
-  container.style.height = "720px";
-  container.style.width = "720px";
+  container.style.height = "690px";
+  container.style.width = "690px";
 
-  smallOrbit.style.height = "340px";
-  smallOrbit.style.width = "340px";
+  smallOrbit.style.height = "310px";
+  smallOrbit.style.width = "310px";
 
-  mediumOrbit.style.height = "480px";
-  mediumOrbit.style.width = "480px";
+  mediumOrbit.style.height = "440px";
+  mediumOrbit.style.width = "440px";
 
-  largeOrbit.style.height = "600px";
-  largeOrbit.style.width = "600px";
+  largeOrbit.style.height = "570px";
+  largeOrbit.style.width = "570px";
 
   container.style.borderRadius = "50%";
   smallOrbit.style.borderRadius = "50%";
@@ -60,8 +60,6 @@ function square() {
 
   largeOrbit.style.height = "550px";
   largeOrbit.style.width = "550px";
-
-
 
 }
 
