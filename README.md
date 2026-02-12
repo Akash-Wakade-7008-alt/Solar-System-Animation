@@ -43,6 +43,12 @@ This project reflects strong fundamentals in **CSS animations**, positioning, an
   <img src="./images/elipse.gif" width="100%" alt="Solar System Animation"/>
 </p>
 
+### 🟥 Square Orbit
+
+<p align="center">
+  <img src="./images/sqaure.gif" width="100%" alt="Square Orbit Animation"/>
+</p>
+
 ---
 
 ## ⭐ Key Features
@@ -65,8 +71,10 @@ solar-system-animation
 ├── script.js
 └── images/
      ├── preview-1.png
-     └── preview-2.png
-
+     ├── preview-2.png
+     ├── circle.gif
+     ├── ellipse.gif
+     └── square.gif
 
 ```
 
