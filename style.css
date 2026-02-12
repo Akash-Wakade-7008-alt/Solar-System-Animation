@@ -7,8 +7,7 @@ body {
   background: hsl(0, 0%, 100%);
 }
 
-
-.btn{
+.btn {
   margin-top: -80vh;
   padding: 10px;
   width: 10vw;
@@ -18,19 +17,34 @@ body {
   background-color: #2229f3;
   border: none;
   border-radius: 5px;
-  padding: 10px;
   width: 5vw;
   cursor: pointer;
 }
+
+.control-btns
+{
+  display: flex;
+  flex-direction: column;
+  gap: 2vh;
+}
+.speedControlBtn
+{
+ color: #eee;
+  background-color: #2229f3;
+  border: none;
+  border-radius: 5px;
+  width: 7vw;
+  height: 5vh;
+  cursor: pointer;
+}
 .container {
-  width: 780px;
+  width: 750px;
   height: 700px;
   background: #111;
   position: relative;
   border-radius: 100%;
   margin-left: 5vw;
 }
-
 
 .orbit {
   position: absolute;
@@ -60,12 +74,12 @@ body {
   animation-duration: 10s;
 }
 
-
 .planet {
   width: 50px;
   height: 50px;
   border-radius: 50%;
   position: absolute;
+  cursor: pointer;
   top: -25px;
   left: 50%;
   transform: translateX(-50%);

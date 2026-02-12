@@ -63,6 +63,27 @@ function square() {
 
 }
 
+function slow()
+{
+  smallOrbit.style.animationDuration="12s";
+  mediumOrbit.style.animationDuration="15s";
+  largeOrbit.style.animationDuration="18s";
+}
+
+function normal()
+{
+  smallOrbit.style.animationDuration="6s";
+  mediumOrbit.style.animationDuration="8s";
+  largeOrbit.style.animationDuration="10s";
+}
+
+function fast()
+{
+  smallOrbit.style.animationDuration="4s";
+  mediumOrbit.style.animationDuration="3s";
+  largeOrbit.style.animationDuration="2.5s";
+}
+
 btn.onclick = function () {
   if (shape === "circle")
      {
