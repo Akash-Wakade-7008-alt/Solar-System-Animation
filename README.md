@@ -27,6 +27,10 @@ This project reflects strong fundamentals in **CSS animations**, positioning, an
 ⭐ **Experience the animation live here:**  
 👉 https://solar-system-animation-jh1q.vercel.app/
 
+
+⭐ **Read the Linkden Post:**  
+👉 https://www.linkedin.com/feed/update/urn:li:activity:7427627335094431744/
+
 ---
 
 ## 🖼️ Preview
