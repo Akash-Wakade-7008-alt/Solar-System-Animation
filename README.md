@@ -106,7 +106,7 @@ open index.html
 
 ```
 
-### 📦 Option 2: Download ZIP
+### 📦 Option 2: Download ZIP File
 
 Download the project directly:  
 👉 https://github.com/Akash-Wakade-7008-alt/Solar-System-Animation/releases/download/solar-system-animation-v1.0/Solar-System-Animation.zip
