@@ -94,14 +94,28 @@ solar-system-animation
 
 ---
 
-## ⚡ Run Locally
+## ⚙️ Local Setup
+
+### Option 1: Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/solar-system-animation.git
-cd solar-system-animation
+git clone https://github.com/Akash-Wakade-7008-alt/Solar-System-Animation.git
+
+cd SOLAR_SYSTEM_ANIMATION
+
+open index.html
+
 ```
 
-Open **index.html** in your browser 🌍
+### 📦 Option 2: Download ZIP
+
+Download the project directly:  
+👉 https://github.com/Akash-Wakade-7008-alt/Solar-System-Animation/releases/download/solar-system-animation-v1.0/Solar-System-Animation.zip
+
+1. Download the ZIP file  
+2. Extract it  
+3. Open `index.html` in your browser  
+
 
 ---
 
