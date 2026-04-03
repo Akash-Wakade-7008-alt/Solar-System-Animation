@@ -27,7 +27,6 @@ This project reflects strong fundamentals in **CSS animations**, positioning, an
 ⭐ **Experience the animation live here:**  
 👉 https://solar-system-animation-jh1q.vercel.app/
 
-
 ⭐ **Read the Linkden Post:**  
 👉 https://www.linkedin.com/feed/update/urn:li:activity:7427627335094431744/
 
@@ -112,10 +111,9 @@ open index.html
 Download the project directly:  
 👉 https://github.com/Akash-Wakade-7008-alt/Solar-System-Animation/releases/download/solar-system-animation-v1.0/Solar-System-Animation.zip
 
-1. Download the ZIP file  
-2. Extract it  
-3. Open `index.html` in your browser  
-
+1. Download the ZIP file
+2. Extract it
+3. Open `index.html` in your browser
 
 ---
 
@@ -167,4 +165,3 @@ It helps others discover my work and motivates me to build more!
   <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
 
----
